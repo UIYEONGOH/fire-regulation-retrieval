@@ -1,4 +1,4 @@
-# Retrieval for AI-Assisted Review of Korean Building Fire Safety Regulations
+# Retrieval Benchmark for AI-Assisted Review of Korean Building Fire Safety Regulations
 
 Database, benchmark, code, and results for the paper
 "Retrieval Benchimark for AI-Assisted Review of Korean Building Fire Safety Regulations" (IEEE Access, under review).
