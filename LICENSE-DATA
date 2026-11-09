@@ -1,0 +1,17 @@
+The contents of data/ and results/ are licensed under the Creative Commons
+Attribution 4.0 International License (CC BY 4.0).
+https://creativecommons.org/licenses/by/4.0/
+
+Copyright (c) 2026 UIYEONG OH and HYUNCHEIL SEO, Kyungpook National University
+
+Third-party sources:
+
+- Regulation texts in data/lawdb_v2_1_frozen.sqlite and data/lawdb_v2_2_frozen.sqlite
+  were collected from the Korean Law Information Center (open.law.go.kr),
+  Ministry of Government Legislation, Republic of Korea. Statutes and public
+  notices are not protected works under Article 7 of the Korean Copyright Act.
+
+- Query texts in data/goldset_v3.csv are taken from the Inquiry-Reply Casebook on
+  Fire Facility Laws (2024, 2025, and 2026 editions), National Fire Agency,
+  Republic of Korea, released under the Korea Open Government License (KOGL)
+  Type 1: Attribution. Source: National Fire Agency.

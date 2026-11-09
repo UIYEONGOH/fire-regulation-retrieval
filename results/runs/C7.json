@@ -1,0 +1,21 @@
+{
+ "name": "C7",
+ "note": "C5 상위 30 → bge-reranker-v2-m3 (질의 256토큰, 512토큰 조각 MaxP), 31위 이하는 C5 순서",
+ "saved": "2026-11-08 11:09:55",
+ "revision": "953dc6f6f85a1b2dbfca4c34a2796e7dde08d41e",
+ "params": 567755777,
+ "batch": 16,
+ "env": {
+  "platform": "Windows-11-10.0.26200-SP0",
+  "processor": "AMD64 Family 25 Model 117 Stepping 2, AuthenticAMD",
+  "cpu_count": 16,
+  "python": "3.14.6",
+  "numpy": "2.5.0",
+  "scipy": "1.18.0",
+  "cpu_name": "AMD Ryzen 7 8840U w/ Radeon 780M Graphics",
+  "ram_gb": 15.3,
+  "torch": "2.15.0+cpu",
+  "transformers": "5.22.2",
+  "kiwipiepy": "0.24.1"
+ }
+}

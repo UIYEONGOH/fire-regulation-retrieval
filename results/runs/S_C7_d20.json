@@ -1,0 +1,5 @@
+{
+ "name": "S_C7_d20",
+ "note": "sensitivity: rerank only the top 20 of C5 (depth-30 scores reused)",
+ "saved": "2026-11-09 17:17:16"
+}

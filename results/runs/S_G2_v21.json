@@ -1,0 +1,58 @@
+{
+ "name": "S_G2_v21",
+ "note": "진입차수 사전확률 14 묶음 CV",
+ "saved": "2026-11-07 18:51:09",
+ "n_candidates": 14,
+ "folds": [
+  {
+   "fold": 0,
+   "n_test": 113,
+   "n_train": 373,
+   "cfg": [
+    "prior",
+    "res",
+    0.2
+   ]
+  },
+  {
+   "fold": 1,
+   "n_test": 89,
+   "n_train": 406,
+   "cfg": [
+    "prior",
+    "add",
+    0.05
+   ]
+  },
+  {
+   "fold": 2,
+   "n_test": 90,
+   "n_train": 411,
+   "cfg": [
+    "prior",
+    "add",
+    0.05
+   ]
+  },
+  {
+   "fold": 3,
+   "n_test": 100,
+   "n_train": 382,
+   "cfg": [
+    "prior",
+    "add",
+    0.01
+   ]
+  },
+  {
+   "fold": 4,
+   "n_test": 151,
+   "n_train": 278,
+   "cfg": [
+    "prior",
+    "add",
+    0.01
+   ]
+  }
+ ]
+}
